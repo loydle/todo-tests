@@ -1,4 +1,3 @@
-// -- to comment outside node context
 const fetch = require('node-fetch');
 
 const {
