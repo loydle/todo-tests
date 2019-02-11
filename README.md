@@ -1,4 +1,5 @@
 # todo-tests
 
-$ node main.js
-$ moocha 
+`$ node main.js`
+
+`$ moocha`
